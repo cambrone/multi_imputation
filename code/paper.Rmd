@@ -1,0 +1,17 @@
+---
+title: "Comparison of Multiple Imputation Methods: Predictive Mean Matching and Bootstrapped EM algorithm"
+author: "Andres Cambronero"
+date: "8/4/2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+#clean environment 
+rm(list=ls())
+
+
+#set working directory
+setwd("~/Desktop/summer_projects/model_based_missing_data/data")
+```
+
+
